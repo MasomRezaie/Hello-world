@@ -13,6 +13,11 @@
   transition: transform;
 }
 
+figcaption {
+  margin-top: 5px;
+  font-style: italic;
+  color: #555;
+}
 
 
 
