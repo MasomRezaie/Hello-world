@@ -1,0 +1,21 @@
+#text {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.image {
+  width: 300px;
+  height: auto;
+  border: 5px solid;
+  margin-top: 2px;
+  transition: transform;
+}
+
+figcaption {
+  margin-top: 5px;
+  font-style: italic;
+  color: #555;
+  font-size: 15px;
+}
